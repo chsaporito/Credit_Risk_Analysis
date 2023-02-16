@@ -1,6 +1,38 @@
 # Credit Risk Analysis
-Overview of the analysis: Explain the purpose of this analysis.
+## Overview
 
-Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
+## Results 
+### Random Oversampling
+- Balanced Accuracy: 0.65
+- High Risk Precision: 0.01
+- High Risk Recall: 0.71
 
-Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+![This is an image](/images/Random Oversampling.PNG)
+### SMOTE Oversampling
+- Balanced Accuracy: 0.66
+- High Risk Precision: 0.01
+- High Risk Recall: 0.63
+### Cluster Centroids Undersampling
+- Balanced Accuracy: 0.54
+- High Risk Precision: 0.01
+- High Risk Recall: 0.73
+### SMOTEENN Combination (Over and Under) Sampling
+- Balanced Accuracy: 0.67
+- High Risk Precision: 0.01
+- High Risk Recall: 0.73
+### Balanced Random Forest Classifier
+- Balanced Accuracy: 0.77
+- High Risk Precision: 0.03
+- High Risk Recall: 0.65
+### Easy Ensemble Classifier
+- Balanced Accuracy: 0.93
+- High Risk Precision: 0.09
+- High Risk Recall: 0.92
+of all six machine learning models. 
+Use screenshots of your outputs to support your results.
+
+# Summary
+ Summarize the results of the machine learning models, 
+ and include a recommendation on the model to use, 
+ if any. If you do not recommend any of the models, 
+ justify your reasoning.
