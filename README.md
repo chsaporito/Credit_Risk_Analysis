@@ -46,7 +46,7 @@ This project is to test different techniques to evaluate models with unbalanced 
 ![This is an image](/images/EasyEnsembleClassifier.png)
 
 # Summary
-As we can see from the results, most of the models have a High Risk Recall between .65 and .73 which would not be an effective predictor since the model would not be able to predict 23% of High Risk credit users.
+As we can see from the results,the Random Oversampling, SMOTE Oversampling,C luster Centroids Undersampling and Balanced Random Forest Classifier models have a High Risk Recall between .65 and .73 which would not be an effective predictor since the model would not be able to predict 23% of High Risk credit users. On average, they get about 70 correct out of 100 so, they get a D rating.
 
 However, the Easy Ensemble Classifier has a High Risk Recall of .92 which is quite an improvement from the previous high for High Risk Recall of .73. 
 
