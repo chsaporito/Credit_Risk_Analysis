@@ -50,5 +50,5 @@ As we can see from the results, most of the models have a High Risk Recall betwe
 
 However, the Easy Ensemble Classifier has a High Risk Recall of .92 which is quite an improvement from the previous high for High Risk Recall of .73. 
 
-While the Easy Ensemble Classifier scores pretty well for our target, I believe that with better data and more features, we should be able to get a recall score closer to .98 or .99 
+While the Easy Ensemble Classifier scores pretty well for our target, I believe that with better data and more features, we should be able to get a recall score closer to .98 or .99.  At this point, I can not reccomend these classifiers but the Easy Ensemble Classifier shows promise and should be considered after more testing and tweaking.
 
