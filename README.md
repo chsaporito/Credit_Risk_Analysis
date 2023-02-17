@@ -7,19 +7,29 @@
 - High Risk Precision: 0.01
 - High Risk Recall: 0.71
 
-![This is an image](/images/Random Oversampling.PNG)
+![This is an image](/images/RandomOversampling.png)
+
 ### SMOTE Oversampling
 - Balanced Accuracy: 0.66
 - High Risk Precision: 0.01
 - High Risk Recall: 0.63
+
+![This is an image](/images/SmoteOversampling.png)
+
 ### Cluster Centroids Undersampling
 - Balanced Accuracy: 0.54
 - High Risk Precision: 0.01
 - High Risk Recall: 0.73
+
+![This is an image](/images/ClusterCentroidsUndersampling.png)
+
 ### SMOTEENN Combination (Over and Under) Sampling
 - Balanced Accuracy: 0.67
 - High Risk Precision: 0.01
 - High Risk Recall: 0.73
+
+![This is an image](/images/SMOTEENNCombinationSampling.png)
+
 ### Balanced Random Forest Classifier
 - Balanced Accuracy: 0.77
 - High Risk Precision: 0.03
