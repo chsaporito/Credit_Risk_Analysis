@@ -19,7 +19,7 @@
 ### Cluster Centroids Undersampling
 - Balanced Accuracy: 0.54
 - High Risk Precision: 0.01
-- High Risk Recall: 0.73
+- High Risk Recall: 0.69
 
 ![This is an image](/images/ClusterCentroidsUndersampling.png)
 
@@ -34,12 +34,15 @@
 - Balanced Accuracy: 0.77
 - High Risk Precision: 0.03
 - High Risk Recall: 0.65
+
+![This is an image](/images/BalancedRandomForestClassifier.png)
+
 ### Easy Ensemble Classifier
 - Balanced Accuracy: 0.93
 - High Risk Precision: 0.09
 - High Risk Recall: 0.92
-of all six machine learning models. 
-Use screenshots of your outputs to support your results.
+
+![This is an image](/images/EasyEnsembleClassifier.png)
 
 # Summary
  Summarize the results of the machine learning models, 
