@@ -1,6 +1,6 @@
 # Credit Risk Analysis
 ## Overview
-This project is to test different techniques to evaluate models with unbalanced classes to predict credit risks.  Particularly, we want to predict High Credit Risks and focus on the "High Risk Recall" number which tells us how well our model performs predicting high credit risks where the prediction of high risk individuals is measured against the actual high risk individuals. We are not really concerned how well Low Credit Risks are predicted since that prediction does not predict High Credit Risks.
+This project is to test different techniques to evaluate models with unbalanced classes to predict credit risks.  Particularly, we want to predict High Credit Risks and focus on the "High Risk Recall" number which tells us how well our model performs predicting high credit risks where the prediction of high risk individuals is measured against the actual high risk individuals. We are not really concerned how well Low Credit Risks are predicted since that prediction does not predict High Credit Risks and will not impact the credit card company.
 
 ## Results 
 ### Random Oversampling
